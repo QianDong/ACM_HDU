@@ -18,28 +18,18 @@ For each case, print the color of balloon for the most popular problem on a sing
 
 ####Sample Input####
 5<br />
-green
-
-red
-
-blue
-
-red
-
-red
-
-3
-
-pink
-
-orange
-
-pink
-
-0
+green<br />
+red<br />
+blue<br />
+red<br />
+red<br />
+3<br />
+pink<br />
+orange<br />
+pink<br />
+0<br />
  
 
 ####Sample Output####
-red
-
-pink
+red<br />
+pink<br />
