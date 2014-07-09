@@ -17,7 +17,7 @@ A test case with N = 0 terminates the input and this test case is not to be proc
 For each case, print the color of balloon for the most popular problem on a single line. It is guaranteed that there is a unique solution for each test case.
 
 ####Sample Input####
-5\n
+5<br />
 green
 
 red
