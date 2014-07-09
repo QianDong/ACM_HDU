@@ -4,7 +4,7 @@
 
 >Contest time again! How excited it is to see balloons floating around. But to tell you a secret, the judges' favorite time is guessing the most popular problem. When the contest is over, they will count the balloons of each color and find the result.
 
-This year, they decide to leave this lovely job to you. 
+>This year, they decide to leave this lovely job to you. 
  
 ####Input####
 
