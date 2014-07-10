@@ -9,6 +9,6 @@
  
 ####Sample Input
 
-1<br />100
+>1<br />100
 
 
