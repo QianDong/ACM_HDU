@@ -1,7 +1,7 @@
 ###Problem Description
 >Ignatius drinks milk everyday, now he is in the supermarket and he wants to choose a bottle of milk. There are many kinds of milk in the supermarket, so Ignatius wants to know which kind of milk is the cheapest.
 
-#####Here are some rules:
+####Here are some rules:
 >1. Ignatius will never drink the milk which is produced 6 days ago or earlier. That means if the milk is produced 2005-1-1, Ignatius will never drink this bottle after 2005-1-6(inclusive).<br \>
 2. Ignatius drinks 200mL milk everyday.<br \>
 3. If the milk left in the bottle is less than 200mL, Ignatius will throw it away.<br \>
@@ -36,6 +36,6 @@ Yanpai 40 10000<br \>
 >Mengniu<br \>
 Mengniu
 
-#####Hint
+######Hint
 In the first case, milk Yili can be drunk for 2 days, it costs 10 Yuan. Milk Mengniu can be drunk for 5 days, it costs 20 Yuan. So Mengniu is the cheapest.In the second case,
 milk Guangming should be ignored. Milk Yanpai can be drunk for 5 days, but it costs 40 Yuan. So Mengniu is the cheapest.
