@@ -1,11 +1,11 @@
 ###Problem Description
 >Ignatius drinks milk everyday, now he is in the supermarket and he wants to choose a bottle of milk. There are many kinds of milk in the supermarket, so Ignatius wants to know which kind of milk is the cheapest.
 
->Here are some rules:
-1. Ignatius will never drink the milk which is produced 6 days ago or earlier. That means if the milk is produced 2005-1-1, Ignatius will never drink this bottle after 2005-1-6(inclusive).
-2. Ignatius drinks 200mL milk everyday.
-3. If the milk left in the bottle is less than 200mL, Ignatius will throw it away.
-4. All the milk in the supermarket is just produced today.
+#####Here are some rules:
+>1. Ignatius will never drink the milk which is produced 6 days ago or earlier. That means if the milk is produced 2005-1-1, Ignatius will never drink this bottle after 2005-1-6(inclusive).<br \>
+2. Ignatius drinks 200mL milk everyday.<br \>
+3. If the milk left in the bottle is less than 200mL, Ignatius will throw it away.<br \>
+4. All the milk in the supermarket is just produced today.<br \>
 
 >Note that Ignatius only wants to buy one bottle of milk, so if the volumn of a bottle is smaller than 200mL, you should ignore it.
 Given some information of milk, your task is to tell Ignatius which milk is the cheapest.
